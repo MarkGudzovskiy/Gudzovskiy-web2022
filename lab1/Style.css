@@ -1,0 +1,56 @@
+body {
+    padding: 0 30px;
+    font-size: 16px;
+    line-height: 26px;
+    font-family: "Roboto", sans-serif;
+    color: #222222;
+
+    background: #ffffff url("img/background5.png") repeat top center;
+    background-size: contain;
+}
+
+nav {
+    margin-bottom: 30px;
+    padding: 20px;
+
+    background-color: #000000;
+    border: 5px solid #343434;
+
+    color: #ffffff;
+}
+
+h1 {
+    font-size: 24px;
+    line-height: normal;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    line-height: normal;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+.avatar-container {
+    text-align: center;
+}
+
+.avatar {
+    border-radius: 100%;
+
+}
+
+.table {
+    align-content: center;
+}
+
+footer {
+    margin-top: 30px;
+}
