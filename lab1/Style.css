@@ -38,6 +38,20 @@ a {
     text-decoration: underline;
 }
 
+.login{
+    margin-bottom: 30px;
+    padding: 20px;
+
+    background-color: #343434;
+    border: 5px solid #6c6c6c;
+
+    color: #ffffff;
+}
+
+.page-title {
+    font-size: 48px;
+}
+
 .avatar-container {
     text-align: center;
 }
